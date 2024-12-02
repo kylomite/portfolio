@@ -1,20 +1,21 @@
 title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+profile_img: /assets/img/profile_picture.png
+icon_img: /assets/img/profile_picture.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Kyle Delaney"
+job: "Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 484-667-6710
+address: West Grove, Pennsylvania
+email: khdelaney99@gmail.com
+linkedin_username: KyleHamptonDelaney
+github_username: kylomite
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
+# theme: jekyll-theme-yat
 
 exclude:
   - _posts/
